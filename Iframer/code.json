@@ -1,4 +1,8 @@
 [
-    { "name": "Snake", "url": "https://mythryx.ai/snake-game/index.html" },
-    { "name": "Pong", "url": "https://example.com/pong" }
+    { "name": "Chess", "url": "https://playpager.com/embed/chess/index.html" },
+    { "name": "OTHELLO", "url": "https://playpager.com/embed/reversi/index.html" },
+    { "name": "Tetris", "url": "https://playpager.com/embed/cubes/index.html" },
+    { "name": "SOLITAIRE", "url": "https://playpager.com/embed/solitaire/index.html" },
+    { "name": "Snake", "url": "https://snake-pwa.github.io/" },
+    { "name": "TicTacToe", "url": "https://tmaiadev-tictactoe.netlify.app/" },
 ]
