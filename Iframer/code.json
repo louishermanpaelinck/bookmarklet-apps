@@ -1,15 +1,6 @@
 [
-    { "name": "Chess", "url": "https://playpager.com/embed/chess/index.html" },
-    { "name": "Othello Reversi", "url": "https://playpager.com/embed/reversi/index.html" },
-    { "name": "Checkers", "url": "https://playpager.com/embed/checkers/index.html" },
-    { "name": "Word Puzzle", "url": "https://playpager.com/embed/wordpuzzle/index.html" },
-    { "name": "Falling Cubes", "url": "https://playpager.com/embed/cubes/index.html" },
-    { "name": "Solitaire", "url": "https://playpager.com/embed/solitaire/index.html" },
-    { "name": "Sudoku", "url": "https://playpager.com/embed/sudoku/index.html" },
-    { "name": "Tetris", "url": "https://playpager.com/embed/cubes/index.html" },
     { "name": "Snake", "url": "https://snake-pwa.github.io/" },
     { "name": "TicTacToe", "url": "https://tmaiadev-tictactoe.netlify.app/" },
-    { "name": "Sand Blast", "url": "https://html5.gamedistribution.com/6c1ccfb8c3184d4c95ff40ee41bb2a50/" },
     { "name": "Roll Master 3D", "url": "https://y8.com/embed/roll_master_3d" },
     { "name": "Run And Clash", "url": "https://y8.com/embed/run_clash" },
     { "name": "Crowd Hunt", "url": "https://y8.com/embed/crowd_hunt_3d" },
@@ -17,5 +8,4 @@
     { "name": "Mario Classic", "url": "https://turbowarp.org/913702642/embed" },
     { "name": "2D Minecraft", "url": "https://turbowarp.org/1171457790/embed" },
     { "name": "BrawlStars", "url": "https://app-387326.games.s3.yandex.net/387326/85yuxygg04xqkvc3hdnwh2ir8a5dnfz1/index.html" },
-    { "name": "Tunnel Road", "url": "https://html5.gamedistribution.com/14e87fab0cbf44b6b3e57ddb77af5941/" }
 ]
